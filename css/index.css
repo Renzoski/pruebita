@@ -1,0 +1,4 @@
+.ingreso_pokemon {
+    display: flex;
+    flex-direction: row;
+}
